@@ -1,0 +1,23 @@
+{
+  "name": "simple-js-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhamadIsmuaji/simple-js-cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhamadIsmuaji/simple-js-cucumber/issues"
+  },
+  "homepage": "https://github.com/MuhamadIsmuaji/simple-js-cucumber#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0"
+  }
+}
